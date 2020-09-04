@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "940975323976",
+    "firebase_url": "https://jobberapp-81e85.firebaseio.com",
+    "project_id": "jobberapp-81e85",
+    "storage_bucket": "jobberapp-81e85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940975323976:android:10a5917a04e8a0c5eed17d",
+        "android_client_info": {
+          "package_name": "com.haibasoft.jobber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940975323976-u3t14gbc7d2heelvkrf0o09d73cg3euo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ-n8PV5Zm1ghF9tg7FJ3_4RhRIE2fIt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940975323976-u3t14gbc7d2heelvkrf0o09d73cg3euo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
